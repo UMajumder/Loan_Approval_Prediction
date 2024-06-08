@@ -44,6 +44,8 @@ In this project I have done:
 
 And, I did all of this using **scikit-learn pipelines**
 
+
+
 Please refer to ipynb file for the detailed code. 
 
 PS: This is an ongoing project and I hope to add to it further, specifically trying out other algorithms and comparing them.
