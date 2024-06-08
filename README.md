@@ -17,20 +17,33 @@ income_annum: Annual Income of the Applicant
 loan_amount: Loan Amount applied for
 
 loan_term: Loan Term in Years
+
 cibil_score: Credit Score of the applicant
+
 residential_assets_value: Monetary valuation of residential propertie(s) of the applicant. Negative values implies the applicant is staying on rent
+
 commercial_assets_value: Monetary valuation of commercial propertie(s) of the applicant
+
 luxury_assets_value: Monetary valuation of luxury propertie(s) of the applicant
+
 bank_asset_value: Valuation of total assets in bank account(s) of the applicant
+
 loan_status: Status of loan, whether Approved or Rejected
 
 In this project I have:
+
 Outlier Capping
+
 One Hot Encoded the categorical variables
+
 Standardization(Z-Score Normalization)
+
 Used PowerTransformer on relevant columns to make them normally distributed
+
 Used Logistic Regression for prediction
+
 And, I did all of this using scikit-learn pipelines:
 
 Please refer to ipynb file for the detailed code. 
+
 PS: This is an ongoing project and I hope to add to it further, specifically trying out other algorithms and comparing them.
