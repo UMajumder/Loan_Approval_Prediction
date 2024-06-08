@@ -44,7 +44,7 @@ In this project I have done:
 
 And, I did all of this using **scikit-learn pipelines**
 
-
+![Logistic Regression Pipeline](https://github.com/UMajumder/Loan_Approval_Prediction/blob/main/Pipeline_Logistic.png)
 
 Please refer to ipynb file for the detailed code. 
 
