@@ -3,12 +3,19 @@ This dataset is a collection of financial records and associated information use
 It includes various factors such as cibil score, income, employment status, loan term, loan amount, assets value, and loan status.
 
 **Dataset**
+
 loan_id: Unique IDs
+
 no_of_dependents: Number of Dependents of the Applicant
+
 education: Education level of the Applicant
+
 self_employed: Employment Status of the Applicant, whether self-employed(=Yes), or not
+
 income_annum: Annual Income of the Applicant
+
 loan_amount: Loan Amount applied for
+
 loan_term: Loan Term in Years
 cibil_score: Credit Score of the applicant
 residential_assets_value: Monetary valuation of residential propertie(s) of the applicant. Negative values implies the applicant is staying on rent
