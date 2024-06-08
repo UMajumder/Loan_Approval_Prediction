@@ -30,19 +30,19 @@ bank_asset_value: Valuation of total assets in bank account(s) of the applicant
 
 loan_status: Status of loan, whether Approved or Rejected
 
-In this project I have:
+In this project I have done:
 
-Outlier Capping
+**Outlier Capping**
 
-One Hot Encoded the categorical variables
+**One Hot Encoded the categorical variables**
 
-Standardization(Z-Score Normalization)
+**Standardization(Z-Score Normalization)**
 
-Used PowerTransformer on relevant columns to make them normally distributed
+**Used PowerTransformer on relevant columns to make them normally distributed**
 
-Used Logistic Regression for prediction
+**Used Logistic Regression for prediction**
 
-And, I did all of this using scikit-learn pipelines:
+And, I did all of this using **scikit-learn pipelines**
 
 Please refer to ipynb file for the detailed code. 
 
