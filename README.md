@@ -42,7 +42,7 @@ In this project I have done:
 
 **Used Logistic Regression for prediction**
 
-And, I did all of this using **scikit-learn pipelines**
+And, I did all of this using **scikit-learn pipeline:**
 
 ![Logistic Regression Pipeline](https://github.com/UMajumder/Loan_Approval_Prediction/blob/main/Pipeline_Logistic.png)
 
