@@ -46,6 +46,6 @@ And, I did all of this using **scikit-learn pipeline:**
 
 ![Logistic Regression Pipeline](https://github.com/UMajumder/Loan_Approval_Prediction/blob/main/Pipeline_Logistic.png)
 
-Please refer to the **Loan Approval_Uttiya Majumder.ipynb** file for the detailed code, and **Loan_Approval_EDA.ipynb** for EDA of the dataset. 
+Please refer to the **Loan Approval_Uttiya Majumder.ipynb** file for the detailed code, and **Loan_Approval_EDA.ipynb** file for EDA of the dataset. 
 
 PS: This is an ongoing project and I hope to add to it further, specifically trying out other algorithms and comparing them.
